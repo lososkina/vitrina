@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vitrina/static/css/main.9688c4cc.css",
+    "main.js": "/vitrina/static/js/main.9d561cd0.js",
+    "index.html": "/vitrina/index.html",
+    "static/media/bask.svg": "/vitrina/static/media/bask.cf7d6af2be4dcec732e490d5593d77c3.svg",
+    "main.9688c4cc.css.map": "/vitrina/static/css/main.9688c4cc.css.map",
+    "main.9d561cd0.js.map": "/vitrina/static/js/main.9d561cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9688c4cc.css",
+    "static/js/main.9d561cd0.js"
+  ]
+}
